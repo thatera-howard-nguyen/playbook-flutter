@@ -7,7 +7,7 @@ issue_tracker: https://github.com/playbook-ui/playbook-flutter/issues
 
 environment:
   sdk: ^3.9.0
-  flutter: ">=3.35.0"
+  flutter: '>=3.35.0'
 
 resolution: workspace
 
@@ -17,7 +17,7 @@ dependencies:
   flutter_test:
     sdk: flutter
 
-  playbook: ^1.0.0
+  playbook: ^1.3.0
   yaml: ^3.1.2
 
 dev_dependencies:
